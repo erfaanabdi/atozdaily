@@ -1,0 +1,35 @@
+/* BBC */
+
+.off-screen,.media-caption__text, .media-with-caption__caption,.story-image-copyright{
+    display: none;
+}
+
+body {
+
+    padding-top: 0px;
+}
+.story-body__introduction{
+    font-weight: bold!important;
+    font-color: black!important;
+}
+
+
+.container  img{
+float: left;
+    margin: 20px 20px 20px 0px;
+}
+.headline{
+    margin-top:0px;
+    font-weight: bold!important;
+    font-size: 4rem!important;
+}
+#logo{
+    display: inline;
+}
+.main-logos{
+    position: relative;
+    top: -3px;
+    height: 17px !important;
+    margin-right: 0px;
+    display: inline;
+}
